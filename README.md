@@ -1,1 +1,0 @@
-# RAG-Assignment-LMA
