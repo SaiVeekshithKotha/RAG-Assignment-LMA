@@ -68,3 +68,4 @@ Whereas, a bi-encoder creates embeddings for the query and each document chunk s
 
 ## 5. Github Link:
 - https://github.com/SaiVeekshithKotha/RAG-Assignment-LMA.git
+- https://www.kaggle.com/code/ksaiveekshith3306/lma-assignment
